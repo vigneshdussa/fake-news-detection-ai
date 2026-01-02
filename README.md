@@ -23,7 +23,7 @@ The user enters a news article, and the AI predicts whether it is real or fake.
 This project helps prevent the spread of misinformation and fake news on social media.
 
 ## 🔗 Live Demo
-Paste Hugging Face link here
+https://jainilp30-fake-news-detector.hf.space/?__theme=system&deep_link=wiW2gbVr3rw
 
 ## 📸 Output
-Screenshots of predictions are included.
+
