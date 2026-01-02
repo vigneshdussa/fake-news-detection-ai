@@ -26,4 +26,8 @@ This project helps prevent the spread of misinformation and fake news on social 
 https://jainilp30-fake-news-detector.hf.space/?__theme=system&deep_link=wiW2gbVr3rw
 
 ## 📸 Output
+### Screenshot 1: News Input
+![News Input](Screenshot_2026-01-02-10-55-50-55_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
+### Screenshot 2: Prediction Result
+![Prediction Result](Screenshot_2026-01-02-10-55-50-55_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
