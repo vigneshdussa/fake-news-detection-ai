@@ -30,4 +30,4 @@ https://jainilp30-fake-news-detector.hf.space/?__theme=system&deep_link=wiW2gbVr
 ![News Input](Screenshot_2026-01-02-10-55-50-55_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ### Screenshot 2: Prediction Result
-![Prediction Result](Screenshot_2026-01-02-10-55-50-55_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Prediction Result](Screenshot_2026-01-02-10-55-56-50_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
